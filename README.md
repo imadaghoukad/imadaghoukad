@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+System...;Cybersecurity+Enthusiast;Preparing+for+1337+Piscine;Welcome+to+my+Profile!" alt="Typing SVG" />
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Network Animation" width="500">
 </p>
