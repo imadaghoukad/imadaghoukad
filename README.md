@@ -1,15 +1,10 @@
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/images/Ironman.gif" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=imadaghoukad&show_icons=true&theme=radical" width="100%" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadaghoukad&layout=compact&theme=radical" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+
+<br />
+
+<pre>
 ```
  ██╗███╗   ███╗ █████╗ ██████╗
  ██║████╗ ████║██╔══██╗██╔══██╗
@@ -18,6 +13,9 @@
  ██║██║ ╚═╝ ██║██║  ██║██████╔╝
  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝
 ```
+
+</pre>
+
 
 <br/>
 
