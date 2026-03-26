@@ -1,8 +1,14 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imadaghoukad&repo=imadaghoukad&show_owner=true&theme=tokyonight" />
-  <br />
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-bb40-4904-abda-02754f76e391.gif" width="300px" />
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/images/Ironman.gif" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=imadaghoukad&show_icons=true&theme=radical" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadaghoukad&layout=compact&theme=radical" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ```
  ██╗███╗   ███╗ █████╗ ██████╗
