@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imadaghoukad&theme=tokyonight" alt="GitHub Streak" />
+  
+  <br/>
+
+  <img src="https://raw.githubusercontent.com/imadaghoukad/imadaghoukad/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>v
 ```
  ██╗███╗   ███╗ █████╗ ██████╗
  ██║████╗ ████║██╔══██╗██╔══██╗
