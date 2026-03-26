@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://example.com/image.png" alt="Description" width="60%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imadaghoukad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadaghoukad&layout=compact&theme=tokyonight" />
 </div>
  ██╗███╗   ███╗ █████╗ ██████╗
  ██║████╗ ████║██╔══██╗██╔══██╗
