@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imadaghoukad&theme=tokyonight" alt="GitHub Streak" />
-  
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imadaghoukad&repo=imadaghoukad&show_owner=true&theme=tokyonight" />
+  <br />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-bb40-4904-abda-02754f76e391.gif" width="300px" />
+</div>
 
-  <img src="https://raw.githubusercontent.com/imadaghoukad/imadaghoukad/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>v
 ```
  ██╗███╗   ███╗ █████╗ ██████╗
  ██║████╗ ████║██╔══██╗██╔══██╗
