@@ -1,5 +1,9 @@
-![Alt text](https://example.com/image.png)
-```
+<div align="center">
+  <img src="https://example.com/image.png" 
+       alt="Description of image" 
+       width="100%" 
+       max-width="600px" />
+</div>```
  ██╗███╗   ███╗ █████╗ ██████╗
  ██║████╗ ████║██╔══██╗██╔══██╗
  ██║██╔████╔██║███████║██║  ██║
