@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="https://example.com/image.png" 
-       alt="Description of image" 
-       width="100%" 
-       max-width="600px" />
-</div>```
+  <img src="https://example.com/image.png" alt="Description" width="60%" />
+</div>
  ██╗███╗   ███╗ █████╗ ██████╗
  ██║████╗ ████║██╔══██╗██╔══██╗
  ██║██╔████╔██║███████║██║  ██║
