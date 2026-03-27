@@ -1,48 +1,48 @@
-<h3>root:~$ ls -la</h3>
+<h3>root:~$ ./fetch_profile.sh</h3>
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1618367588411-d9a90fefa881?q=80&w=800&auto=format&fit=crop" alt="Dark geometric aesthetic" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
+  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=800&auto=format&fit=crop" alt="Matrix Cyber Aesthetic" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
 </div>
 
 <pre>
 ┌── WHOAMI ├───────────────────────▰▰▰
 │
 ├─■ Software Developer
-├─■ Based in Missour, Morocco
+├─■ Based in, Morocco
 ├─■ Passionate about Cybersecurity & Web Dev
 ├─■ Up to the challenge.
+└──────────────────────────────────▰▰▰
+
+┌── CURRENT FOCUS ├────────────────▰▰▰
+│
+├─◆ Deep diving into Low-level Programming
+├─◆ Mastering Web Technologies
+├─◆ Exploring Mobile App Development
+├─◆ Ethical Hacking & Network Security
 │
 └──────────────────────────────────▰▰▰
 
-┌── CURRENT PROJECTS ├─────────────▰▰▰
+┌── TECH STACK ├───────────────────▰▰▰
 │
-├─◆ Deep diving into C & C++ 
-├─◆ iOS App Development (Swift & Xcode)
-├─◆ Customizing macOS terminal environments (iTerm2, Starship)
-├─◆ Python utility scripts (automation & media editing)
-│
-└──────────────────────────────────▰▰▰
-
-┌── TECH & TOOLS ├─────────────────▰▰▰
-│
-├─◆ Languages: C, C++, Python, Swift, JavaScript
-├─◆ Web: React, Next.js, Vite
-├─◆ Security: Kali Linux, Nmap, John the Ripper
+├─◆ Languages : C, JavaScript, Swift
+├─◆ Frameworks: React, Next.js, Node.js
+├─◆ Tools     : Git, Docker, Linux, Bash
+├─◆ Security  : Kali, Nmap, Wireshark
 │
 └──────────────────────────────────▰▰▰
 
-┌── AFK (AWAY FROM KEYBOARD) ├─────▰▰▰
+┌── SYSTEM STATS ├─────────────────▰▰▰
 │
-├─■ Rewatching Breaking Bad & Hunter x Hunter
-├─■ Grinding eFootball & PUBG Mobile
+├─◆ Commits : ████████████████ 100%
+├─◆ Coffee  : ███████████████▒ 95%
+├─◆ Sleep   : ███▒▒▒▒▒▒▒▒▒▒▒▒▒ 20%
 │
 └──────────────────────────────────▰▰▰
 
-┌── SOCIAL ├───────────────────────▰▰▰
+┌── CONNECT ├──────────────────────▰▰▰
 │
-├─◆ <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
-├─◆ <a href="https://github.com/YOUR_GITHUB">GitHub</a>
-├─◆ Discord: imad#1234
+├─◆ <a href="https://bsky.app/profile/umaad.bsky.social">Bluesky</a>
+├─◆ <a href="https://www.instagram.com/umaad_a/">Instagram</a>
 │
 └──────────────────────────────────▰▰▰
 </pre>
