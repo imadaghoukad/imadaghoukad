@@ -1,7 +1,5 @@
-<h3>root:~$ ./fetch_profile.sh</h3>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/matrix_rain.gif" alt="Animated Matrix Rain" width="100%"/>
+  <img src="https://media.giphy.com/media/A06zQhI4KpNW0/giphy.gif" alt="Animated Matrix Rain" width="100%" style="border-radius: 10px;"/>
 </div>
 
 <pre>
