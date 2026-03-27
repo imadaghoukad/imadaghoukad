@@ -1,8 +1,6 @@
 <h3>root:~imad$ ./mood.sh</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=4393F7&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+Imad;Cyber+Security+Enthusiast;Web+Developer" alt="Typing SVG" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20my%20Space&fontSize=50&animation=fadeIn&fontAlignY=38)
 <pre>
 ┌── WHOAMI ├───────────────────────▰▰▰
 │
