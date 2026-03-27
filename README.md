@@ -1,7 +1,8 @@
 <h3>root:~imad$ ./mood.sh</h3>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20my%20Space&fontSize=50&animation=fadeIn&fontAlignY=38)
-<pre>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imad-yourusername&theme=tokyo-night&area=true" width="100%" />
+</p>
 ┌── WHOAMI ├───────────────────────▰▰▰
 │
 ├─■ Software Developer
