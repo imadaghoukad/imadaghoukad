@@ -1,8 +1,8 @@
-<h3>root:~$ ./mood.sh</h3>
+<h3>root:~imad$ ./mood.sh</h3>
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1519501025264-65ba15a82390?q=80&w=800&auto=format&fit=crop" alt="Night City Vibes" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
-</di
+  <img src="https://media.giphy.com/media/10vbPurZemocww/giphy.gif" alt="Animated Night City Vibes" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
+</div>
 <pre>
 ┌── WHOAMI ├───────────────────────▰▰▰
 │
