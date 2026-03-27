@@ -1,10 +1,15 @@
-<h3>root:~imad$ ./mood.sh</h3>
+### root:~imad$ ./mood.sh
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=4393F7&center=true&vCenter=true&width=500&lines=Hello,+I'm+Imad;Cyber+Security+Enthusiast;Web+Developer;C+%2F+C%2B%2B+Programmer" alt="Typing SVG" />
   </a>
-</p> </pre>
+</p>
+
+---
+
+```text
+
 ┌── WHOAMI ├───────────────────────▰▰▰
 │
 ├─■ Software Developer
