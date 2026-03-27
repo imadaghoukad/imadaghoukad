@@ -1,8 +1,8 @@
 <h3>root:~imad$ ./mood.sh</h3>
 
-<div align="center">
-  <img src="https://media.tenor.com/bCZAfc1qPE0AAAAC/pixel-art-city.gif" alt="Animated Night City Vibes" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=4393F7&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+Imad;Cyber+Security+Enthusiast;Web+Developer" alt="Typing SVG" />
+</p>
 <pre>
 ┌── WHOAMI ├───────────────────────▰▰▰
 │
