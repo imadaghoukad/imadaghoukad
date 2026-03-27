@@ -1,7 +1,7 @@
 <h3>root:~imad$ ./mood.sh</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/10vbPurZemocww/giphy.gif" alt="Animated Night City Vibes" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
+  <img src="https://media.tenor.com/bCZAfc1qPE0AAAAC/pixel-art-city.gif" alt="Animated Night City Vibes" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
 </div>
 <pre>
 ┌── WHOAMI ├───────────────────────▰▰▰
