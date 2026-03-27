@@ -1,13 +1,14 @@
 <div align="center">
-  <img src="https://github.com/imadaghoukad/imadaghoukad/blob/main/header.png?raw=true" width="800" alt="Header Illustration" />
-  
-  <br />
-  
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,git,docker,py" />
-  </p>
-</div>
 
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/male-developer-working-on-multiple-screen-illustration-download-in-svg-png-gif-file-formats--project-management-at-office-work-business-pack-illustrations-5381335.png" width="600" alt="Developer Illustration" />
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,git,docker,py" />
+</p>
+
+</div>
 <pre>
 ```
  ██╗███╗   ███╗ █████╗ ██████╗
