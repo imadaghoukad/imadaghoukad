@@ -1,9 +1,7 @@
-### root:~imad$ ./mood.sh
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=4393F7&center=true&vCenter=true&width=500&lines=Hello,+I'm+Imad;sf+achbaghi+t3raf+mazal%3F;C+%2F+C%2B%2B+Programmer" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D35%26pause%3D1000%26color%3D4393F7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DHello,%2BI%2527m%2BImad%3Bsf%2Bachbaghi%2Bt3raf%2Bmazal" alt="Typing SVG" />
+</a>
 </p>
 
 ---
