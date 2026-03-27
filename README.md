@@ -1,8 +1,12 @@
 <div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-
-<br />
+  <img src="https://github.com/imadaghoukad/imadaghoukad/blob/main/header.png?raw=true" width="800" alt="Header Illustration" />
+  
+  <br />
+  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,git,docker,py" />
+  </p>
+</div>
 
 <pre>
 ```
