@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/imad">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=600&height=80&lines=root%3A~imad%24+.%2Fmood.sh;Hello,+I'm+Imad;sf+achbaghi+t3raf+mazal%3F;%2Fyllh%2B%2B+ghyrha..." alt="Imad's Pro Terminal" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=hello,+i+m+umaad.;sf+ach+baghi+t3raf+mazal%3F;yllh+ghyrha" alt="Typing Text" />
   </a>
 </p>
 ---
