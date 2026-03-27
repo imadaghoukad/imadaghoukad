@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding Terminal" width="100%" style="border-radius: 10px;"/>
+  <img src="https://media.giphy.com/media/VbKqBofmB0p2G1Drmm/giphy.gif" alt="Clean Coding" width="100%" style="border-radius: 10px;"/>
 </div>
 <pre>
 ┌── WHOAMI ├───────────────────────▰▰▰
