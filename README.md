@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/male-developer-working-on-multiple-screen-illustration-download-in-svg-png-gif-file-formats--project-management-at-office-work-business-pack-illustrations-5381335.png" width="600" alt="Developer Illustration" />
+<img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/GitHub/GitHub.png" width="300" alt="GitHub Logo" />
 
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,git,docker,py" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,git,docker,py,c,cpp,swift" />
 </p>
 
 </div>
+
 <pre>
 ```
  ██╗███╗   ███╗ █████╗ ██████╗
