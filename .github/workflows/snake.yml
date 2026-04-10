@@ -13,6 +13,10 @@ on:
     branches:
     - main
 
+# ✅ HAD L-BLOCK HOWA LI GHADI Y7EL L-MOCHKIL (PERMISSIONS)
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
