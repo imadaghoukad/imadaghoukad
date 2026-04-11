@@ -28,7 +28,7 @@
 │
 ├─◆ Languages : C, JavaScript, Swift
 ├─◆ Frameworks: React, Next.js, Node.js
-├─◆ Tools     : Git, Docker, Linux, Bash
+├─◆ Tools     : Git, Docker, Linux, macOS
 ├─◆ Security  : Kali, Nmap, Wireshark
 │
 └──────────────────────────────────▰▰▰
