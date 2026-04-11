@@ -26,7 +26,7 @@
 
 ┌── TECH STACK ├───────────────────▰▰▰
 │
-├─◆ Languages : C, JavaScript, Swift
+├─◆ Languages : C, JavaScript, Swift,Python
 ├─◆ Frameworks: React, Next.js, Node.js
 ├─◆ Tools     : Git, Docker, Linux, macOS
 ├─◆ Security  : Kali, Nmap, Wireshark
